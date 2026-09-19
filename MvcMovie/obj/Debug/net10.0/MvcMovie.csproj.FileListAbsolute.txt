@@ -97,3 +97,4 @@ C:\Users\peter\Documents\GitHub\nje-serverside-applications-1\MvcMovie\obj\Debug
 C:\Users\peter\Documents\GitHub\nje-serverside-applications-1\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 C:\Users\peter\Documents\GitHub\nje-serverside-applications-1\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
 C:\Users\peter\Documents\GitHub\nje-serverside-applications-1\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+C:\Users\peter\Documents\GitHub\nje-serverside-applications-1\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
